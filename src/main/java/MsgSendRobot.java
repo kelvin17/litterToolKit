@@ -24,12 +24,12 @@ public class MsgSendRobot {
     private final static Map<String, HttpPost> ORG_HOOK_POST_MAP = new HashMap<String, HttpPost>();
 
     static {
-        ORG_HOOK_POST_MAP.put("BEAR", new HttpPost(
-            "https://oapi.dingtalk.com/robot/send?access_token=608c04ea6ce57c9c03e8a515605fcbe85f9c85e7b90bdb062299bca5563bfa22"));
-        ORG_HOOK_POST_MAP.put("HAMSTER", new HttpPost(
-            "https://oapi.dingtalk.com/robot/send?access_token=1cc1b0655c4c4a86b8ede1db8a0163eeae37d3ded3ee8b874ee42353ccb08894"));
-        ORG_HOOK_POST_MAP.put("TIGER", new HttpPost(
-            "https://oapi.dingtalk.com/robot/send?access_token=b822e5bb5da4143e823dedbe054eb7b2046f0ed8c93d302ab62ed652a143ae39"));
+        //        ORG_HOOK_POST_MAP.put("BEAR", new HttpPost(
+        //            "https://oapi.dingtalk.com/robot/send?access_token=608c04ea6ce57c9c03e8a515605fcbe85f9c85e7b90bdb062299bca5563bfa22"));
+        //        ORG_HOOK_POST_MAP.put("HAMSTER", new HttpPost(
+        //            "https://oapi.dingtalk.com/robot/send?access_token=1cc1b0655c4c4a86b8ede1db8a0163eeae37d3ded3ee8b874ee42353ccb08894"));
+        //        ORG_HOOK_POST_MAP.put("TIGER", new HttpPost(
+        //            "https://oapi.dingtalk.com/robot/send?access_token=b822e5bb5da4143e823dedbe054eb7b2046f0ed8c93d302ab62ed652a143ae39"));
 
         ORG_HOOK_POST_MAP.put("DUMIAO",
             new HttpPost("https://oapi.dingtalk"
