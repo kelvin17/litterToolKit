@@ -14,64 +14,29 @@ public enum OrgInfoEnum {
 
                          //                         BEAR("BEAR",
                          //                              "https://oapi.dingtalk.com/robot/send?access_token=608c04ea6ce57c9c03e8a515605fcbe85f9c85e7b90bdb062299bca5563bfa22",
-                         //                              "–°∫⁄–‹"),
+                         //                              "Â∞èÈªëÁÜä"),
                          //
                          //                         HAMSTER("HAMSTER",
                          //                                 "https://oapi.dingtalk.com/robot/send?access_token=1cc1b0655c4c4a86b8ede1db8a0163eeae37d3ded3ee8b874ee42353ccb08894",
-                         //                                 "–°≤÷ Û"),
+                         //                                 "Â∞è‰ªìÈº†"),
                          //
                          //                         TIGER("TIGER",
                          //                               "https://oapi.dingtalk.com/robot/send?access_token=95e3f61f6468376ccf90f32ca310bed222bbc2c616a3bc4cd674c86ba36a66a1",
-                         //                               "∂´±±ª¢")
-
-                         DUMIAO("DUMIAO",
-                                "https://oapi.dingtalk.com/robot/send?access_token=0bab0e503538402950b7800071ee5da4a80967199e431e6b8c5aa527b260dee5",
-                                "∂¡√Î"),
-
-                         QUDIAN("QUDIAN",
-                                "https://oapi.dingtalk.com/robot/send?access_token=c632d23f6ed101a3c617ca348547384ca54d3cdd7384143cf1cd374bb5e7adc9",
-                                "»§µÍ"),
-
-                         BHBK("BHBK",
-                              "https://oapi.dingtalk.com/robot/send?access_token=cb580ae80daaa74004ae51c002af35d4d7d7db411f4714624b2a0eed454455d6",
-                              "≤≥∫£"),
-
-                         CSBK("CSBK",
-                              "https://oapi.dingtalk.com/robot/send?access_token=7855e6e3f287a03eb16e26278f4f62e29ad56109ad5687eb222c4ea9733a4ff5",
-                              "≥§…≥"),
-
-                         XABK("XABK",
-                              "https://oapi.dingtalk.com/robot/send?access_token=d4f980ab5198331f5e6d62d940833978480a28e77154403171dc30d24e259a9e",
-                              "Œ˜∞≤"),
-
-                         BSBK("BSBK",
-                              "https://oapi.dingtalk.com/robot/send?access_token=1e2cf2f0443f2aa3f574b87a8cd5d3ef06d5b9a47c980d4650a6938b9d773f91",
-                              "∞¸…Ã"),
-
-                         SHBK("SHBK",
-                              "https://oapi.dingtalk.com/robot/send?access_token=2690902855439f489d384d5bb899bf96592bc08a16ef28933bff991b34b03a22",
-                              "…œ∫£"),
-
-                         MUCFC("MUCFC",
-                               "https://oapi.dingtalk.com/robot/send?access_token=a15e1d0c63a569ab2ac1f631a9ec9c1d8048268193d7b1136f3310cb3f54562d",
-                               "’–¡™"),
-
-                         XWBK("XWBK",
-                              "https://oapi.dingtalk.com/robot/send?access_token=59add69d1243a1c22bb7efcd63b5e2bb090d2ee12904f5ac85dae6a4cd472d0d",
-                              "–¬Õ¯"),;
+                         //                               "‰∏úÂåóËôé")
+  ;
 
     /**
-     * ª˙ππ±‡∫≈
+     * Êú∫ÊûÑÁºñÂè∑
      */
     private String code;
 
     /**
-     * webhookµÿ÷∑
+     * webhookÂú∞ÂùÄ
      */
     private String webhook;
 
     /**
-     * √Ë ˆ
+     * ÊèèËø∞
      */
     private String desc;
 
